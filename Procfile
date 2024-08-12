@@ -1,1 +1,1 @@
-worker: python3 -m Katszuki
+web: python3 -m katszuki
