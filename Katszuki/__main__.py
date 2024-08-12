@@ -68,7 +68,7 @@ from katszuki.modules.system_stats import bot_sys_stats
 
 
 PM_START_TEXT = """
-Hey there!👋 \n My Name Is 💖 Katszuki Bot 💖
+Hey there!👋 \n My Name Is 💖 HeartZone Bot 💖
 I m Simple And Fast Next Gen Group Manager.
 """
 
