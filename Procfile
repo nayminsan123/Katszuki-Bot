@@ -1,1 +1,1 @@
-web: python3 -m katszuki
+web: python3 -m Katszuki
