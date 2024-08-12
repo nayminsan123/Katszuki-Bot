@@ -1,1 +1,1 @@
-worker: python3 -m Maxrobot
+worker: python3 -m Katszuki
